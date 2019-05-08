@@ -1,0 +1,197 @@
+{
+  "id": "491adaf5-7a60-42d9-bb96-df8a887c3f32",
+  "createdBy": "d264c6cb-0630-4252-8dae-483b1eeb8ae5",
+  "updatedBy": "0ffbc16d-5c42-48b7-b240-41aa1f154710",
+  "createdOn": "1531646162225",
+  "updatedOn": "1531920578624",
+  "featured": false,
+  "name": "Customer Markets Technician",
+  "meta": "{\"project\":\"926ff265-e22b-400d-ae00-a817d69d5042\",\"reach\":\"4f310e81-e1f8-45e7-9341-859e7f4e2208\"}",
+  "note": "Quisquam sed qui amet. Modi odio vitae occaecati quidem quia quos. Sed inventore vitae illo optio eos. Est ut aliquid aut enim sunt ut nihil. Quia molestiae sequi et sunt odio vel.\n\n \rQuibusdam error incidunt. Dolorem vitae et explicabo enim repellendus voluptatem. Natus qui mollitia doloremque accusantium sunt vitae tempore. Quia tenetur similique.\n \rPlaceat totam nobis rerum quia est nihil. Velit dolores eius facere ut consequatur rerum ut. Sit et facilis. Non dolore dolor aliquam. Rerum et sit ut. Voluptas ad mollitia maxime vero quasi.",
+  "longitude": -120.333379,
+  "latitude": 44.629701,
+  "direction": 109,
+  "photos": [
+    {
+      "id": "a891935e-743d-49c2-9f93-f0b498252903",
+      "createdBy": "4a6b1a2c-da36-4be7-9d33-64a3402597f2",
+      "updatedBy": "0460c58c-3712-45a6-9003-6361f682c516",
+      "createdOn": "1529157811217",
+      "updatedOn": "1548065147069",
+      "takenOn": "1529157811217",
+      "url": "https://placeimg.com/802/602/nature",
+      "base64": null,
+      "featured": true,
+      "rawData": {
+        "a": 1,
+        "b": 2
+      },
+      "note": "Modi consequatur vitae omnis quo est voluptatem reiciendis qui voluptatem. Nam id tenetur sunt aut voluptatum illum ex maxime. Eligendi qui dicta culpa eum praesentium nostrum hic atque et. Provident odio inventore.\n \rUt ut autem quaerat et. Vel est ut aut veniam ullam provident et consectetur. Voluptas quibusdam consequatur. Dolores dolorem neque ipsam velit ipsa sint qui.",
+      "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
+      "tags": [
+        {
+          "label": "Structure-11",
+          "id": "54daa7c1-08df-4661-8d0f-13a9a42dbcb1",
+          "typeId": "structures",
+          "coords": {
+            "x": 511,
+            "y": 475
+          }
+        },
+        {
+          "label": "Structure-0",
+          "id": "d689c7f9-064b-4b44-bc55-9d80a94d4007",
+          "typeId": "structures",
+          "coords": {
+            "x": 42,
+            "y": 373
+          }
+        },
+        {
+          "label": "Structure-2",
+          "id": "0ccde0f9-d8d1-4caa-a05a-911ffcceee37",
+          "typeId": "structures",
+          "coords": {
+            "x": 325,
+            "y": 179
+          }
+        },
+        {
+          "label": "Structure-8",
+          "id": "f5d18afc-fc79-4110-b1d5-60ea3f92aa94",
+          "typeId": "structures",
+          "coords": {
+            "x": 156,
+            "y": 150
+          }
+        },
+        {
+          "label": "Structure-12",
+          "id": "43be5dc8-345e-430c-af63-62ab1d13e998",
+          "typeId": "structures",
+          "coords": {
+            "x": 75,
+            "y": 404
+          }
+        },
+        {
+          "label": "Structure-7",
+          "id": "4ac598fa-4fd9-435b-a19d-9cd57d80c47a",
+          "typeId": "structures",
+          "coords": {
+            "x": 496,
+            "y": 224
+          }
+        },
+        {
+          "label": "Structure-9",
+          "id": "8613ad27-293c-42e2-9bdf-edffcf9e4288",
+          "typeId": "structures",
+          "coords": {
+            "x": 489,
+            "y": 447
+          }
+        },
+        {
+          "label": "Structure-4",
+          "id": "83984420-49b4-427d-819d-5b4cb83873af",
+          "typeId": "structures",
+          "coords": {
+            "x": 723,
+            "y": 491
+          }
+        },
+        {
+          "label": "Structure-10",
+          "id": "4212d238-f1dd-447d-985b-3f6eb1b561fe",
+          "typeId": "structures",
+          "coords": {
+            "x": 542,
+            "y": 382
+          }
+        },
+        {
+          "label": "Oak",
+          "id": "1a8adeb7-1f85-4d80-9f7b-aabdeab3858e",
+          "typeId": "treetypes",
+          "coords": {
+            "x": 396,
+            "y": 530
+          }
+        },
+        {
+          "label": "Cottonwood",
+          "id": "546ed1c6-2a91-43d2-92a0-585b49041642",
+          "typeId": "treetypes",
+          "coords": {
+            "x": 64,
+            "y": 383
+          }
+        },
+        {
+          "label": "Birch",
+          "id": "46daf69d-740a-4bc7-bf99-91e0c6b06f1d",
+          "typeId": "treetypes",
+          "coords": {
+            "x": 83,
+            "y": 549
+          }
+        },
+        {
+          "label": "Elm",
+          "id": "69e96609-016f-44c1-bb4a-a1ed40e534b1",
+          "typeId": "treetypes",
+          "coords": {
+            "x": 69,
+            "y": 568
+          }
+        },
+        {
+          "label": "Indignation",
+          "id": "d9db63b7-c00a-45c6-bad6-d700f0f6cf4f",
+          "typeId": "emotions",
+          "coords": {
+            "x": 727,
+            "y": 399
+          }
+        },
+        {
+          "label": "Confusion",
+          "id": "25d6c5a7-4cc4-4daf-a6f4-b69d0666069d",
+          "typeId": "emotions",
+          "coords": {
+            "x": 782,
+            "y": 391
+          }
+        },
+        {
+          "label": "Ambivalence",
+          "id": "2b5f8b54-587b-4872-82d4-223aeda7b428",
+          "typeId": "emotions",
+          "coords": {
+            "x": 723,
+            "y": 355
+          }
+        },
+        {
+          "label": "Cautious",
+          "id": "566e3fa1-eaec-4283-9a0f-e240b4642aa7",
+          "typeId": "emotions",
+          "coords": {
+            "x": 202,
+            "y": 457
+          }
+        },
+        {
+          "label": "Summer",
+          "id": "a5f9226b-9cab-452c-a29a-0f9d1d7dd414",
+          "typeId": "season",
+          "coords": {
+            "x": 330,
+            "y": 234
+          }
+        }
+      ]
+    }
+  ]
+}
