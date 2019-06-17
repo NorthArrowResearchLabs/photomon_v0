@@ -1,197 +1,1748 @@
 {
-  "id": "491adaf5-7a60-42d9-bb96-df8a887c3f32",
-  "createdBy": "d264c6cb-0630-4252-8dae-483b1eeb8ae5",
-  "updatedBy": "0ffbc16d-5c42-48b7-b240-41aa1f154710",
-  "createdOn": "1531646162225",
-  "updatedOn": "1531920578624",
-  "featured": false,
-  "name": "Customer Markets Technician",
+  "id": "c115c76e-cae8-4556-aa0e-a126003d8122",
+  "createdBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+  "updatedBy": "e2d343ec-0b17-4b02-a411-6128b523fb22",
+  "createdUser": {
+    "id": "6f09e5c2-9520-47c6-918a-71643131a146",
+    "gravatar": "https://fillmurray.com/88/96",
+    "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+    "username": "Joaquin Friesen"
+  },
+  "updatedUser": {
+    "id": "e2d343ec-0b17-4b02-a411-6128b523fb22",
+    "gravatar": "https://fillmurray.com/93/100",
+    "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+    "username": "Kraig Bartell"
+  },
+  "createdOn": "1532617531832",
+  "updatedOn": "1529610672540",
+  "featured": {
+    "id": "f7bb8e47-d568-4b53-821c-1d0762707283",
+    "createdUser": {
+      "id": "fc20657b-62c1-48d2-a3d0-6bfd3b3f0d3c",
+      "gravatar": "https://fillmurray.com/89/95",
+      "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+      "username": "Rebekah McClure"
+    },
+    "takenOn": "1534736550794",
+    "createdOn": "1534736550794",
+    "updatedOn": "1530021985053",
+    "paths": {
+      "base": "https://placeimg.com/795/596/",
+      "thumb": "nature",
+      "medium": "nature",
+      "large": "nature",
+      "orig": "nature"
+    },
+    "coords": [
+      -120.333379,
+      44.629701
+    ],
+    "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+    "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146"
+  },
+  "latest": {
+    "id": "f7bb8e47-d568-4b53-821c-1d0762707283",
+    "createdUser": {
+      "id": "fc20657b-62c1-48d2-a3d0-6bfd3b3f0d3c",
+      "gravatar": "https://fillmurray.com/89/95",
+      "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+      "username": "Rebekah McClure"
+    },
+    "takenOn": "1534736550794",
+    "createdOn": "1534736550794",
+    "updatedOn": "1530021985053",
+    "paths": {
+      "base": "https://placeimg.com/795/596/",
+      "thumb": "nature",
+      "medium": "nature",
+      "large": "nature",
+      "orig": "nature"
+    },
+    "coords": [
+      -120.333379,
+      44.629701
+    ],
+    "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+    "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146"
+  },
+  "name": "National Security Architect",
+  "sk": "SERIES",
+  "access": "OPEN",
   "meta": "{\"project\":\"926ff265-e22b-400d-ae00-a817d69d5042\",\"reach\":\"4f310e81-e1f8-45e7-9341-859e7f4e2208\"}",
-  "note": "Quisquam sed qui amet. Modi odio vitae occaecati quidem quia quos. Sed inventore vitae illo optio eos. Est ut aliquid aut enim sunt ut nihil. Quia molestiae sequi et sunt odio vel.\n\n \rQuibusdam error incidunt. Dolorem vitae et explicabo enim repellendus voluptatem. Natus qui mollitia doloremque accusantium sunt vitae tempore. Quia tenetur similique.\n \rPlaceat totam nobis rerum quia est nihil. Velit dolores eius facere ut consequatur rerum ut. Sit et facilis. Non dolore dolor aliquam. Rerum et sit ut. Voluptas ad mollitia maxime vero quasi.",
-  "longitude": -120.333379,
-  "latitude": 44.629701,
-  "direction": 109,
+  "watchers": 0,
+  "note": "Nihil distinctio quo amet sed aliquid nisi necessitatibus. Numquam voluptatem impedit consequatur quo et natus totam aspernatur ut. Et et culpa quis quia non nulla architecto est.\n\n \rReprehenderit commodi repudiandae exercitationem voluptatem veniam a praesentium dicta. Et ipsa aut eos occaecati est. Aut porro praesentium qui explicabo velit ipsa eum mollitia ipsa.\n \rSequi qui quasi ex totam nam est odio. Ipsam et pariatur voluptatem perferendis accusantium alias quos. Eum reiciendis voluptatibus sunt unde quo odit sequi. Praesentium similique officia animi. Sit in quaerat sapiente.",
+  "coords": [
+    -120.333379,
+    44.629701
+  ],
+  "direction": 61,
   "photos": [
     {
-      "id": "a891935e-743d-49c2-9f93-f0b498252903",
-      "createdBy": "4a6b1a2c-da36-4be7-9d33-64a3402597f2",
-      "updatedBy": "0460c58c-3712-45a6-9003-6361f682c516",
-      "createdOn": "1529157811217",
-      "updatedOn": "1548065147069",
-      "takenOn": "1529157811217",
-      "url": "https://placeimg.com/802/602/nature",
+      "id": "adb4639f-d37a-4a89-8f23-fedff8153a73",
+      "createdBy": "7272fbbe-6422-42eb-a22d-67d2e962baa9",
+      "updatedBy": "06a9949d-db24-46af-aca4-9b4bc199c776",
+      "createdUser": {
+        "id": "7272fbbe-6422-42eb-a22d-67d2e962baa9",
+        "gravatar": "https://fillmurray.com/94/89",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Jeremie Rau"
+      },
+      "updatedUser": {
+        "id": "06a9949d-db24-46af-aca4-9b4bc199c776",
+        "gravatar": "https://fillmurray.com/85/98",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Dorris Carter"
+      },
+      "createdOn": "1532478743011",
+      "updatedOn": "1551354509884",
+      "takenOn": "1532478743011",
+      "sk": "PHOTO",
+      "url": "https://placeimg.com/798/598/nature",
       "base64": null,
-      "featured": true,
+      "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+      "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+      "coords": [
+        -120.333379,
+        44.629701
+      ],
       "rawData": {
         "a": 1,
         "b": 2
       },
-      "note": "Modi consequatur vitae omnis quo est voluptatem reiciendis qui voluptatem. Nam id tenetur sunt aut voluptatum illum ex maxime. Eligendi qui dicta culpa eum praesentium nostrum hic atque et. Provident odio inventore.\n \rUt ut autem quaerat et. Vel est ut aut veniam ullam provident et consectetur. Voluptas quibusdam consequatur. Dolores dolorem neque ipsam velit ipsa sint qui.",
+      "note": "Aut ad ea dolor qui tempora sequi. Et non molestiae nesciunt eum provident nulla ratione. Omnis rem et voluptatem fuga dicta quam dolorem. Sint nesciunt ex et dolor officiis voluptas. Minus dolorem dolorem.\n \rInventore dolorem ea. Architecto et ab unde est dolorem est quis voluptates rerum. Deleniti quis porro officiis magni.\n \rDoloribus ipsa est similique et. Non suscipit facere quisquam. Sunt sed sit ea tenetur explicabo et reprehenderit facere accusantium. Mollitia eos et velit. Nesciunt beatae totam qui non repellendus ut nemo saepe.\n \rIpsam voluptatem velit enim nihil esse rem voluptas est officiis. Aliquid veritatis atque architecto nesciunt nostrum sunt est error nihil. Dolores inventore est qui omnis vel necessitatibus earum officia repellat. Omnis aut nostrum quia aperiam quos ipsam. Dolor dolores voluptatem error quo architecto et.",
       "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
       "tags": [
         {
-          "label": "Structure-11",
-          "id": "54daa7c1-08df-4661-8d0f-13a9a42dbcb1",
+          "label": "Structure-1",
+          "id": "e9840d2f-a43d-4a83-9bf4-e79e5bd93d68",
           "typeId": "structures",
-          "coords": {
-            "x": 511,
-            "y": 475
-          }
-        },
-        {
-          "label": "Structure-0",
-          "id": "d689c7f9-064b-4b44-bc55-9d80a94d4007",
-          "typeId": "structures",
-          "coords": {
-            "x": 42,
-            "y": 373
-          }
-        },
-        {
-          "label": "Structure-2",
-          "id": "0ccde0f9-d8d1-4caa-a05a-911ffcceee37",
-          "typeId": "structures",
-          "coords": {
-            "x": 325,
-            "y": 179
-          }
-        },
-        {
-          "label": "Structure-8",
-          "id": "f5d18afc-fc79-4110-b1d5-60ea3f92aa94",
-          "typeId": "structures",
-          "coords": {
-            "x": 156,
-            "y": 150
-          }
-        },
-        {
-          "label": "Structure-12",
-          "id": "43be5dc8-345e-430c-af63-62ab1d13e998",
-          "typeId": "structures",
-          "coords": {
-            "x": 75,
-            "y": 404
-          }
-        },
-        {
-          "label": "Structure-7",
-          "id": "4ac598fa-4fd9-435b-a19d-9cd57d80c47a",
-          "typeId": "structures",
-          "coords": {
-            "x": 496,
-            "y": 224
-          }
-        },
-        {
-          "label": "Structure-9",
-          "id": "8613ad27-293c-42e2-9bdf-edffcf9e4288",
-          "typeId": "structures",
-          "coords": {
-            "x": 489,
-            "y": 447
-          }
-        },
-        {
-          "label": "Structure-4",
-          "id": "83984420-49b4-427d-819d-5b4cb83873af",
-          "typeId": "structures",
-          "coords": {
-            "x": 723,
-            "y": 491
+          "xyCoords": {
+            "x": 97,
+            "y": 141
           }
         },
         {
           "label": "Structure-10",
-          "id": "4212d238-f1dd-447d-985b-3f6eb1b561fe",
+          "id": "b7ef909d-2947-43a5-8f49-1d79dde4db2d",
           "typeId": "structures",
-          "coords": {
-            "x": 542,
-            "y": 382
+          "xyCoords": {
+            "x": 356,
+            "y": 292
           }
         },
         {
-          "label": "Oak",
-          "id": "1a8adeb7-1f85-4d80-9f7b-aabdeab3858e",
-          "typeId": "treetypes",
-          "coords": {
-            "x": 396,
-            "y": 530
-          }
-        },
-        {
-          "label": "Cottonwood",
-          "id": "546ed1c6-2a91-43d2-92a0-585b49041642",
-          "typeId": "treetypes",
-          "coords": {
-            "x": 64,
-            "y": 383
+          "label": "Structure-7",
+          "id": "55a937d2-ae2f-4052-8f43-87b299c57c31",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 172,
+            "y": 36
           }
         },
         {
           "label": "Birch",
-          "id": "46daf69d-740a-4bc7-bf99-91e0c6b06f1d",
+          "id": "7e4c53dd-4dd0-49a1-a9c6-1786cfe05b0d",
           "typeId": "treetypes",
-          "coords": {
-            "x": 83,
-            "y": 549
+          "xyCoords": {
+            "x": 668,
+            "y": 218
           }
         },
         {
           "label": "Elm",
-          "id": "69e96609-016f-44c1-bb4a-a1ed40e534b1",
+          "id": "e02c87ce-d804-4134-8bef-518728440667",
           "typeId": "treetypes",
-          "coords": {
-            "x": 69,
-            "y": 568
+          "xyCoords": {
+            "x": 646,
+            "y": 559
           }
         },
         {
-          "label": "Indignation",
-          "id": "d9db63b7-c00a-45c6-bad6-d700f0f6cf4f",
-          "typeId": "emotions",
-          "coords": {
-            "x": 727,
-            "y": 399
+          "label": "Palm",
+          "id": "d340bb1c-d608-4d48-8fed-f43a5e07d3de",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 585,
+            "y": 131
           }
         },
         {
-          "label": "Confusion",
-          "id": "25d6c5a7-4cc4-4daf-a6f4-b69d0666069d",
-          "typeId": "emotions",
-          "coords": {
-            "x": 782,
-            "y": 391
+          "label": "Cottonwood",
+          "id": "5faf04ba-6355-4c33-9353-7ec30f025da3",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 356,
+            "y": 252
           }
         },
         {
-          "label": "Ambivalence",
-          "id": "2b5f8b54-587b-4872-82d4-223aeda7b428",
-          "typeId": "emotions",
-          "coords": {
-            "x": 723,
-            "y": 355
+          "label": "Oak",
+          "id": "8622ff80-4485-4ad1-99c2-be91ada23344",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 366,
+            "y": 100
           }
         },
         {
           "label": "Cautious",
-          "id": "566e3fa1-eaec-4283-9a0f-e240b4642aa7",
+          "id": "b9d5d715-9217-49ba-bec1-604745d95e55",
           "typeId": "emotions",
-          "coords": {
-            "x": 202,
-            "y": 457
+          "xyCoords": {
+            "x": 431,
+            "y": 525
+          }
+        },
+        {
+          "label": "Fall",
+          "id": "0f859ba1-3965-4507-a077-ed73fe2d9272",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 325,
+            "y": 409
           }
         },
         {
           "label": "Summer",
-          "id": "a5f9226b-9cab-452c-a29a-0f9d1d7dd414",
+          "id": "82c8de93-7408-4d70-a0a2-8485c4dea345",
           "typeId": "season",
-          "coords": {
-            "x": 330,
-            "y": 234
+          "xyCoords": {
+            "x": 624,
+            "y": 205
+          }
+        },
+        {
+          "label": "Spring",
+          "id": "60cc5964-7a6b-4584-b0b1-a261f53a739c",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 55,
+            "y": 178
           }
         }
-      ]
+      ],
+      "paths": {
+        "base": "https://placeimg.com/801/596/",
+        "thumb": "nature",
+        "medium": "nature",
+        "large": "nature",
+        "orig": "nature"
+      }
+    },
+    {
+      "id": "d3cd7de9-f691-4a30-96ad-2ad3a047645d",
+      "createdBy": "f5bbbeea-cac6-4471-9698-57e0ffe4432f",
+      "updatedBy": "83f5370a-cf1a-4840-973a-7dcbadf43ba2",
+      "createdUser": {
+        "id": "f5bbbeea-cac6-4471-9698-57e0ffe4432f",
+        "gravatar": "https://fillmurray.com/88/99",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Natasha Streich"
+      },
+      "updatedUser": {
+        "id": "83f5370a-cf1a-4840-973a-7dcbadf43ba2",
+        "gravatar": "https://fillmurray.com/99/89",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Joe Parker"
+      },
+      "createdOn": "1537941552034",
+      "updatedOn": "1537417075719",
+      "takenOn": "1537941552034",
+      "sk": "PHOTO",
+      "url": "https://placeimg.com/798/598/nature",
+      "base64": null,
+      "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+      "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+      "coords": [
+        -120.333379,
+        44.629701
+      ],
+      "rawData": {
+        "a": 1,
+        "b": 2
+      },
+      "note": "Qui mollitia minus necessitatibus nesciunt debitis ipsa non libero. At et quae ipsam veniam. Est distinctio quam officia ea incidunt ex omnis natus quia.",
+      "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
+      "tags": [
+        {
+          "label": "Structure-1",
+          "id": "e9840d2f-a43d-4a83-9bf4-e79e5bd93d68",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 451,
+            "y": 137
+          }
+        },
+        {
+          "label": "Structure-9",
+          "id": "6c532d22-94dc-4dea-89c0-26868fa4006b",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 263,
+            "y": 447
+          }
+        },
+        {
+          "label": "Structure-5",
+          "id": "26939008-dfa0-4ede-b455-e0f40503b174",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 124,
+            "y": 502
+          }
+        },
+        {
+          "label": "Structure-7",
+          "id": "55a937d2-ae2f-4052-8f43-87b299c57c31",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 644,
+            "y": 545
+          }
+        },
+        {
+          "label": "Structure-8",
+          "id": "19357bc3-85dc-4067-8261-3515f89b3321",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 757,
+            "y": 485
+          }
+        },
+        {
+          "label": "Structure-2",
+          "id": "b02e4c65-e239-44a2-a610-9cd4db996f85",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 92,
+            "y": 142
+          }
+        },
+        {
+          "label": "Structure-4",
+          "id": "2109d347-ace6-463d-a9d3-18f1b987b06f",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 616,
+            "y": 398
+          }
+        },
+        {
+          "label": "Structure-10",
+          "id": "b7ef909d-2947-43a5-8f49-1d79dde4db2d",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 510,
+            "y": 82
+          }
+        },
+        {
+          "label": "Palm",
+          "id": "d340bb1c-d608-4d48-8fed-f43a5e07d3de",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 151,
+            "y": 318
+          }
+        },
+        {
+          "label": "Oak",
+          "id": "8622ff80-4485-4ad1-99c2-be91ada23344",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 71,
+            "y": 232
+          }
+        },
+        {
+          "label": "Elm",
+          "id": "e02c87ce-d804-4134-8bef-518728440667",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 676,
+            "y": 445
+          }
+        },
+        {
+          "label": "Birch",
+          "id": "7e4c53dd-4dd0-49a1-a9c6-1786cfe05b0d",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 625,
+            "y": 290
+          }
+        },
+        {
+          "label": "Cottonwood",
+          "id": "5faf04ba-6355-4c33-9353-7ec30f025da3",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 162,
+            "y": 408
+          }
+        },
+        {
+          "label": "Ambivalence",
+          "id": "3ac64fb3-2916-4342-a9f0-c936d5278d28",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 724,
+            "y": 393
+          }
+        },
+        {
+          "label": "Winter",
+          "id": "9c83367f-52ba-4676-87ad-6061bbcd6969",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 616,
+            "y": 481
+          }
+        }
+      ],
+      "paths": {
+        "base": "https://placeimg.com/801/599/",
+        "thumb": "nature",
+        "medium": "nature",
+        "large": "nature",
+        "orig": "nature"
+      }
+    },
+    {
+      "id": "68d974b1-b79e-4f3f-b53d-d92f415f241a",
+      "createdBy": "ddf53d72-88c7-4455-b5eb-eef870cb040f",
+      "updatedBy": "529ce193-28a0-486f-8de4-d70ac7c94a4c",
+      "createdUser": {
+        "id": "ddf53d72-88c7-4455-b5eb-eef870cb040f",
+        "gravatar": "https://fillmurray.com/95/84",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Lavonne Gerlach"
+      },
+      "updatedUser": {
+        "id": "529ce193-28a0-486f-8de4-d70ac7c94a4c",
+        "gravatar": "https://fillmurray.com/89/81",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Pablo Wintheiser"
+      },
+      "createdOn": "1549639291829",
+      "updatedOn": "1542681227728",
+      "takenOn": "1549639291829",
+      "sk": "PHOTO",
+      "url": "https://placeimg.com/798/598/nature",
+      "base64": null,
+      "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+      "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+      "coords": [
+        -120.333379,
+        44.629701
+      ],
+      "rawData": {
+        "a": 1,
+        "b": 2
+      },
+      "note": "Est odit atque excepturi et. Adipisci aut ab unde voluptatibus laudantium. Fugiat eius ut. Alias illo est est. Fuga mollitia exercitationem beatae praesentium et voluptatem voluptatem nihil et. Quaerat saepe doloribus sunt.\n \rReiciendis id accusantium sit. Voluptatem assumenda quia nihil sint unde adipisci ut. Distinctio at deserunt illo voluptatibus perspiciatis doloremque. Pariatur aut voluptatum vero. Maiores sint autem ab vitae dolore qui ipsa quasi autem. Mollitia perspiciatis recusandae eum rerum.\n \rPraesentium dicta eos et et ut perspiciatis architecto deserunt. Mollitia enim voluptatem illum distinctio est ab occaecati. Odio doloribus hic consequuntur perspiciatis. Illo aut distinctio cupiditate corrupti voluptas molestiae.\n \rIusto quia assumenda quos ut suscipit in. Omnis cum amet ad neque rerum ut aspernatur. Praesentium commodi sit aut magnam quod et quia. Maxime totam possimus.",
+      "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
+      "tags": [
+        {
+          "label": "Structure-10",
+          "id": "b7ef909d-2947-43a5-8f49-1d79dde4db2d",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 584,
+            "y": 124
+          }
+        },
+        {
+          "label": "Structure-6",
+          "id": "6ec28cf6-137c-4383-b02a-7b07c75e25b8",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 704,
+            "y": 511
+          }
+        },
+        {
+          "label": "Structure-4",
+          "id": "2109d347-ace6-463d-a9d3-18f1b987b06f",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 317,
+            "y": 277
+          }
+        },
+        {
+          "label": "Structure-2",
+          "id": "b02e4c65-e239-44a2-a610-9cd4db996f85",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 659,
+            "y": 467
+          }
+        },
+        {
+          "label": "Structure-3",
+          "id": "1d4e49cb-8ac5-4de1-b9e3-3f6347632758",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 104,
+            "y": 397
+          }
+        },
+        {
+          "label": "Structure-7",
+          "id": "55a937d2-ae2f-4052-8f43-87b299c57c31",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 97,
+            "y": 296
+          }
+        },
+        {
+          "label": "Structure-1",
+          "id": "e9840d2f-a43d-4a83-9bf4-e79e5bd93d68",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 239,
+            "y": 321
+          }
+        },
+        {
+          "label": "Cottonwood",
+          "id": "5faf04ba-6355-4c33-9353-7ec30f025da3",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 57,
+            "y": 107
+          }
+        },
+        {
+          "label": "Oak",
+          "id": "8622ff80-4485-4ad1-99c2-be91ada23344",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 311,
+            "y": 300
+          }
+        },
+        {
+          "label": "Palm",
+          "id": "d340bb1c-d608-4d48-8fed-f43a5e07d3de",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 308,
+            "y": 164
+          }
+        },
+        {
+          "label": "Elm",
+          "id": "e02c87ce-d804-4134-8bef-518728440667",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 638,
+            "y": 281
+          }
+        },
+        {
+          "label": "Birch",
+          "id": "7e4c53dd-4dd0-49a1-a9c6-1786cfe05b0d",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 673,
+            "y": 198
+          }
+        },
+        {
+          "label": "Anger",
+          "id": "ee39eac5-0038-46b9-ae74-225849c87edd",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 553,
+            "y": 47
+          }
+        },
+        {
+          "label": "Indignation",
+          "id": "8691da0b-8e56-4bb6-b6bc-b4d3b2be70e5",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 699,
+            "y": 30
+          }
+        },
+        {
+          "label": "Ambivalence",
+          "id": "3ac64fb3-2916-4342-a9f0-c936d5278d28",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 377,
+            "y": 340
+          }
+        },
+        {
+          "label": "Cautious",
+          "id": "b9d5d715-9217-49ba-bec1-604745d95e55",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 505,
+            "y": 471
+          }
+        },
+        {
+          "label": "Fall",
+          "id": "0f859ba1-3965-4507-a077-ed73fe2d9272",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 257,
+            "y": 326
+          }
+        },
+        {
+          "label": "Spring",
+          "id": "60cc5964-7a6b-4584-b0b1-a261f53a739c",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 349,
+            "y": 257
+          }
+        },
+        {
+          "label": "Summer",
+          "id": "82c8de93-7408-4d70-a0a2-8485c4dea345",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 648,
+            "y": 450
+          }
+        },
+        {
+          "label": "Winter",
+          "id": "9c83367f-52ba-4676-87ad-6061bbcd6969",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 329,
+            "y": 286
+          }
+        }
+      ],
+      "paths": {
+        "base": "https://placeimg.com/797/601/",
+        "thumb": "nature",
+        "medium": "nature",
+        "large": "nature",
+        "orig": "nature"
+      }
+    },
+    {
+      "id": "f616404c-a3da-462f-9c9a-acc0f28e3ced",
+      "createdBy": "9b8f44e1-3d9e-4aa8-b168-31f2607a9a82",
+      "updatedBy": "180e79e9-c067-48dc-9f27-679eec31cd21",
+      "createdUser": {
+        "id": "9b8f44e1-3d9e-4aa8-b168-31f2607a9a82",
+        "gravatar": "https://fillmurray.com/85/89",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Bernadette Hyatt"
+      },
+      "updatedUser": {
+        "id": "180e79e9-c067-48dc-9f27-679eec31cd21",
+        "gravatar": "https://fillmurray.com/100/99",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Aisha Crist"
+      },
+      "createdOn": "1530255043822",
+      "updatedOn": "1531099417241",
+      "takenOn": "1530255043822",
+      "sk": "PHOTO",
+      "url": "https://placeimg.com/798/598/nature",
+      "base64": null,
+      "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+      "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+      "coords": [
+        -120.333379,
+        44.629701
+      ],
+      "rawData": {
+        "a": 1,
+        "b": 2
+      },
+      "note": "Velit qui fugiat aut alias aut delectus et. Quis consequatur modi. Mollitia nulla quibusdam sint consequatur.",
+      "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
+      "tags": [
+        {
+          "label": "Structure-10",
+          "id": "b7ef909d-2947-43a5-8f49-1d79dde4db2d",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 773,
+            "y": 55
+          }
+        },
+        {
+          "label": "Structure-7",
+          "id": "55a937d2-ae2f-4052-8f43-87b299c57c31",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 598,
+            "y": 532
+          }
+        },
+        {
+          "label": "Structure-8",
+          "id": "19357bc3-85dc-4067-8261-3515f89b3321",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 154,
+            "y": 378
+          }
+        },
+        {
+          "label": "Structure-0",
+          "id": "dd3d944f-743c-4995-99e2-c1db1445026c",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 591,
+            "y": 277
+          }
+        },
+        {
+          "label": "Structure-3",
+          "id": "1d4e49cb-8ac5-4de1-b9e3-3f6347632758",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 726,
+            "y": 504
+          }
+        },
+        {
+          "label": "Structure-6",
+          "id": "6ec28cf6-137c-4383-b02a-7b07c75e25b8",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 342,
+            "y": 473
+          }
+        },
+        {
+          "label": "Structure-4",
+          "id": "2109d347-ace6-463d-a9d3-18f1b987b06f",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 454,
+            "y": 75
+          }
+        },
+        {
+          "label": "Structure-5",
+          "id": "26939008-dfa0-4ede-b455-e0f40503b174",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 327,
+            "y": 243
+          }
+        },
+        {
+          "label": "Structure-9",
+          "id": "6c532d22-94dc-4dea-89c0-26868fa4006b",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 486,
+            "y": 561
+          }
+        },
+        {
+          "label": "Structure-2",
+          "id": "b02e4c65-e239-44a2-a610-9cd4db996f85",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 45,
+            "y": 536
+          }
+        },
+        {
+          "label": "Structure-1",
+          "id": "e9840d2f-a43d-4a83-9bf4-e79e5bd93d68",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 708,
+            "y": 273
+          }
+        },
+        {
+          "label": "Elm",
+          "id": "e02c87ce-d804-4134-8bef-518728440667",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 699,
+            "y": 25
+          }
+        },
+        {
+          "label": "Palm",
+          "id": "d340bb1c-d608-4d48-8fed-f43a5e07d3de",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 414,
+            "y": 54
+          }
+        },
+        {
+          "label": "Ambivalence",
+          "id": "3ac64fb3-2916-4342-a9f0-c936d5278d28",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 202,
+            "y": 223
+          }
+        },
+        {
+          "label": "Cautious",
+          "id": "b9d5d715-9217-49ba-bec1-604745d95e55",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 422,
+            "y": 532
+          }
+        },
+        {
+          "label": "Confusion",
+          "id": "5e7250c7-da62-4068-93ae-9243fc50af3b",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 358,
+            "y": 575
+          }
+        },
+        {
+          "label": "Spring",
+          "id": "60cc5964-7a6b-4584-b0b1-a261f53a739c",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 194,
+            "y": 111
+          }
+        },
+        {
+          "label": "Fall",
+          "id": "0f859ba1-3965-4507-a077-ed73fe2d9272",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 705,
+            "y": 88
+          }
+        }
+      ],
+      "paths": {
+        "base": "https://placeimg.com/795/598/",
+        "thumb": "nature",
+        "medium": "nature",
+        "large": "nature",
+        "orig": "nature"
+      }
+    },
+    {
+      "id": "abbf2634-7951-4de9-a454-c0d473ee1fd8",
+      "createdBy": "db27579e-fcae-4e20-97f6-ffeca7bf7c06",
+      "updatedBy": "f5082a37-9b62-4902-924d-8a1f34c2c378",
+      "createdUser": {
+        "id": "db27579e-fcae-4e20-97f6-ffeca7bf7c06",
+        "gravatar": "https://fillmurray.com/81/80",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Johann Runolfsson"
+      },
+      "updatedUser": {
+        "id": "f5082a37-9b62-4902-924d-8a1f34c2c378",
+        "gravatar": "https://fillmurray.com/92/100",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Roselyn McLaughlin"
+      },
+      "createdOn": "1556823557224",
+      "updatedOn": "1535716510943",
+      "takenOn": "1556823557224",
+      "sk": "PHOTO",
+      "url": "https://placeimg.com/798/598/nature",
+      "base64": null,
+      "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+      "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+      "coords": [
+        -120.333379,
+        44.629701
+      ],
+      "rawData": {
+        "a": 1,
+        "b": 2
+      },
+      "note": "Dolorem quia officia repellat eos vel amet. Nisi officiis voluptatibus. Rerum voluptatibus vel qui veniam est libero.\n \rRatione dolorem dolorem qui sapiente qui a et quisquam et. Sint omnis et laborum officiis. Et sunt optio veritatis autem alias excepturi cupiditate.",
+      "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
+      "tags": [
+        {
+          "label": "Structure-5",
+          "id": "26939008-dfa0-4ede-b455-e0f40503b174",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 439,
+            "y": 443
+          }
+        },
+        {
+          "label": "Structure-1",
+          "id": "e9840d2f-a43d-4a83-9bf4-e79e5bd93d68",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 122,
+            "y": 142
+          }
+        },
+        {
+          "label": "Structure-4",
+          "id": "2109d347-ace6-463d-a9d3-18f1b987b06f",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 224,
+            "y": 317
+          }
+        },
+        {
+          "label": "Structure-3",
+          "id": "1d4e49cb-8ac5-4de1-b9e3-3f6347632758",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 696,
+            "y": 328
+          }
+        },
+        {
+          "label": "Birch",
+          "id": "7e4c53dd-4dd0-49a1-a9c6-1786cfe05b0d",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 141,
+            "y": 28
+          }
+        },
+        {
+          "label": "Oak",
+          "id": "8622ff80-4485-4ad1-99c2-be91ada23344",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 253,
+            "y": 373
+          }
+        },
+        {
+          "label": "Elm",
+          "id": "e02c87ce-d804-4134-8bef-518728440667",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 70,
+            "y": 152
+          }
+        },
+        {
+          "label": "Palm",
+          "id": "d340bb1c-d608-4d48-8fed-f43a5e07d3de",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 614,
+            "y": 443
+          }
+        },
+        {
+          "label": "Cottonwood",
+          "id": "5faf04ba-6355-4c33-9353-7ec30f025da3",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 572,
+            "y": 246
+          }
+        },
+        {
+          "label": "Cautious",
+          "id": "b9d5d715-9217-49ba-bec1-604745d95e55",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 563,
+            "y": 488
+          }
+        },
+        {
+          "label": "Indignation",
+          "id": "8691da0b-8e56-4bb6-b6bc-b4d3b2be70e5",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 60,
+            "y": 302
+          }
+        },
+        {
+          "label": "Anger",
+          "id": "ee39eac5-0038-46b9-ae74-225849c87edd",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 358,
+            "y": 337
+          }
+        },
+        {
+          "label": "Confusion",
+          "id": "5e7250c7-da62-4068-93ae-9243fc50af3b",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 664,
+            "y": 516
+          }
+        },
+        {
+          "label": "Ambivalence",
+          "id": "3ac64fb3-2916-4342-a9f0-c936d5278d28",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 168,
+            "y": 196
+          }
+        },
+        {
+          "label": "Fall",
+          "id": "0f859ba1-3965-4507-a077-ed73fe2d9272",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 442,
+            "y": 176
+          }
+        },
+        {
+          "label": "Winter",
+          "id": "9c83367f-52ba-4676-87ad-6061bbcd6969",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 103,
+            "y": 559
+          }
+        },
+        {
+          "label": "Summer",
+          "id": "82c8de93-7408-4d70-a0a2-8485c4dea345",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 374,
+            "y": 361
+          }
+        }
+      ],
+      "paths": {
+        "base": "https://placeimg.com/797/596/",
+        "thumb": "nature",
+        "medium": "nature",
+        "large": "nature",
+        "orig": "nature"
+      }
+    },
+    {
+      "id": "b122957a-1fd9-4fce-acff-b8f7cfef3dcb",
+      "createdBy": "3337c1d1-bc17-407d-aaed-6f09cc9fce6f",
+      "updatedBy": "714c96e2-c08a-4011-864d-891aedf6edc8",
+      "createdUser": {
+        "id": "3337c1d1-bc17-407d-aaed-6f09cc9fce6f",
+        "gravatar": "https://fillmurray.com/83/96",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Layla Langworth"
+      },
+      "updatedUser": {
+        "id": "714c96e2-c08a-4011-864d-891aedf6edc8",
+        "gravatar": "https://fillmurray.com/93/83",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Theron Streich"
+      },
+      "createdOn": "1530248675639",
+      "updatedOn": "1550924252943",
+      "takenOn": "1530248675639",
+      "sk": "PHOTO",
+      "url": "https://placeimg.com/798/598/nature",
+      "base64": null,
+      "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+      "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+      "coords": [
+        -120.333379,
+        44.629701
+      ],
+      "rawData": {
+        "a": 1,
+        "b": 2
+      },
+      "note": "Et et non provident maiores mollitia. Autem veniam libero unde fugiat esse. Quod similique ipsa.\n \rNon dignissimos ullam odit autem excepturi. Placeat voluptas ut sed repellat deserunt accusamus. Doloribus necessitatibus voluptates dignissimos quisquam est placeat corrupti explicabo. Itaque et magnam vero inventore iste. Qui placeat dicta optio suscipit sed quas. Dignissimos ut dolorem.",
+      "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
+      "tags": [
+        {
+          "label": "Structure-5",
+          "id": "26939008-dfa0-4ede-b455-e0f40503b174",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 705,
+            "y": 437
+          }
+        },
+        {
+          "label": "Structure-1",
+          "id": "e9840d2f-a43d-4a83-9bf4-e79e5bd93d68",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 386,
+            "y": 234
+          }
+        },
+        {
+          "label": "Structure-9",
+          "id": "6c532d22-94dc-4dea-89c0-26868fa4006b",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 265,
+            "y": 294
+          }
+        },
+        {
+          "label": "Structure-3",
+          "id": "1d4e49cb-8ac5-4de1-b9e3-3f6347632758",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 757,
+            "y": 325
+          }
+        },
+        {
+          "label": "Structure-4",
+          "id": "2109d347-ace6-463d-a9d3-18f1b987b06f",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 45,
+            "y": 374
+          }
+        },
+        {
+          "label": "Structure-2",
+          "id": "b02e4c65-e239-44a2-a610-9cd4db996f85",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 203,
+            "y": 272
+          }
+        },
+        {
+          "label": "Structure-6",
+          "id": "6ec28cf6-137c-4383-b02a-7b07c75e25b8",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 96,
+            "y": 568
+          }
+        },
+        {
+          "label": "Structure-0",
+          "id": "dd3d944f-743c-4995-99e2-c1db1445026c",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 453,
+            "y": 394
+          }
+        },
+        {
+          "label": "Cottonwood",
+          "id": "5faf04ba-6355-4c33-9353-7ec30f025da3",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 593,
+            "y": 366
+          }
+        },
+        {
+          "label": "Oak",
+          "id": "8622ff80-4485-4ad1-99c2-be91ada23344",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 612,
+            "y": 158
+          }
+        },
+        {
+          "label": "Birch",
+          "id": "7e4c53dd-4dd0-49a1-a9c6-1786cfe05b0d",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 524,
+            "y": 56
+          }
+        },
+        {
+          "label": "Indignation",
+          "id": "8691da0b-8e56-4bb6-b6bc-b4d3b2be70e5",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 224,
+            "y": 201
+          }
+        },
+        {
+          "label": "Anger",
+          "id": "ee39eac5-0038-46b9-ae74-225849c87edd",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 216,
+            "y": 310
+          }
+        },
+        {
+          "label": "Cautious",
+          "id": "b9d5d715-9217-49ba-bec1-604745d95e55",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 545,
+            "y": 448
+          }
+        },
+        {
+          "label": "Confusion",
+          "id": "5e7250c7-da62-4068-93ae-9243fc50af3b",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 50,
+            "y": 119
+          }
+        },
+        {
+          "label": "Ambivalence",
+          "id": "3ac64fb3-2916-4342-a9f0-c936d5278d28",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 160,
+            "y": 407
+          }
+        },
+        {
+          "label": "Summer",
+          "id": "82c8de93-7408-4d70-a0a2-8485c4dea345",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 408,
+            "y": 252
+          }
+        },
+        {
+          "label": "Winter",
+          "id": "9c83367f-52ba-4676-87ad-6061bbcd6969",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 212,
+            "y": 492
+          }
+        },
+        {
+          "label": "Spring",
+          "id": "60cc5964-7a6b-4584-b0b1-a261f53a739c",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 264,
+            "y": 495
+          }
+        },
+        {
+          "label": "Fall",
+          "id": "0f859ba1-3965-4507-a077-ed73fe2d9272",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 530,
+            "y": 566
+          }
+        }
+      ],
+      "paths": {
+        "base": "https://placeimg.com/796/598/",
+        "thumb": "nature",
+        "medium": "nature",
+        "large": "nature",
+        "orig": "nature"
+      }
+    },
+    {
+      "id": "f7bb8e47-d568-4b53-821c-1d0762707283",
+      "createdBy": "fc20657b-62c1-48d2-a3d0-6bfd3b3f0d3c",
+      "updatedBy": "57fbc146-df45-480a-b205-c9322b7e1712",
+      "createdUser": {
+        "id": "fc20657b-62c1-48d2-a3d0-6bfd3b3f0d3c",
+        "gravatar": "https://fillmurray.com/89/95",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Rebekah McClure"
+      },
+      "updatedUser": {
+        "id": "57fbc146-df45-480a-b205-c9322b7e1712",
+        "gravatar": "https://fillmurray.com/88/96",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Zella Feil"
+      },
+      "createdOn": "1534736550794",
+      "updatedOn": "1530021985053",
+      "takenOn": "1534736550794",
+      "sk": "PHOTO",
+      "url": "https://placeimg.com/798/598/nature",
+      "base64": null,
+      "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+      "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+      "coords": [
+        -120.333379,
+        44.629701
+      ],
+      "rawData": {
+        "a": 1,
+        "b": 2
+      },
+      "note": "Maxime ad nisi earum quas voluptatem hic enim sit. Recusandae ratione ut saepe voluptas aut explicabo aperiam excepturi eos. Quidem illum nam in dolor ut ut dolor.",
+      "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
+      "tags": [
+        {
+          "label": "Structure-1",
+          "id": "e9840d2f-a43d-4a83-9bf4-e79e5bd93d68",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 406,
+            "y": 31
+          }
+        },
+        {
+          "label": "Structure-6",
+          "id": "6ec28cf6-137c-4383-b02a-7b07c75e25b8",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 309,
+            "y": 467
+          }
+        },
+        {
+          "label": "Structure-0",
+          "id": "dd3d944f-743c-4995-99e2-c1db1445026c",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 481,
+            "y": 109
+          }
+        },
+        {
+          "label": "Birch",
+          "id": "7e4c53dd-4dd0-49a1-a9c6-1786cfe05b0d",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 109,
+            "y": 147
+          }
+        },
+        {
+          "label": "Oak",
+          "id": "8622ff80-4485-4ad1-99c2-be91ada23344",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 647,
+            "y": 253
+          }
+        },
+        {
+          "label": "Confusion",
+          "id": "5e7250c7-da62-4068-93ae-9243fc50af3b",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 553,
+            "y": 362
+          }
+        },
+        {
+          "label": "Anger",
+          "id": "ee39eac5-0038-46b9-ae74-225849c87edd",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 272,
+            "y": 283
+          }
+        },
+        {
+          "label": "Indignation",
+          "id": "8691da0b-8e56-4bb6-b6bc-b4d3b2be70e5",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 192,
+            "y": 455
+          }
+        },
+        {
+          "label": "Cautious",
+          "id": "b9d5d715-9217-49ba-bec1-604745d95e55",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 243,
+            "y": 130
+          }
+        },
+        {
+          "label": "Spring",
+          "id": "60cc5964-7a6b-4584-b0b1-a261f53a739c",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 423,
+            "y": 160
+          }
+        },
+        {
+          "label": "Fall",
+          "id": "0f859ba1-3965-4507-a077-ed73fe2d9272",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 656,
+            "y": 364
+          }
+        },
+        {
+          "label": "Winter",
+          "id": "9c83367f-52ba-4676-87ad-6061bbcd6969",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 212,
+            "y": 523
+          }
+        },
+        {
+          "label": "Summer",
+          "id": "82c8de93-7408-4d70-a0a2-8485c4dea345",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 448,
+            "y": 261
+          }
+        }
+      ],
+      "paths": {
+        "base": "https://placeimg.com/795/596/",
+        "thumb": "nature",
+        "medium": "nature",
+        "large": "nature",
+        "orig": "nature"
+      }
+    },
+    {
+      "id": "0cb07515-9a15-4664-8082-686b5c590676",
+      "createdBy": "8b4b3dd5-8dc8-4d36-845d-cf800aef6022",
+      "updatedBy": "45af9194-8c9a-46f6-85eb-8f0e8dae26dd",
+      "createdUser": {
+        "id": "8b4b3dd5-8dc8-4d36-845d-cf800aef6022",
+        "gravatar": "https://fillmurray.com/96/88",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Percy Gerlach"
+      },
+      "updatedUser": {
+        "id": "45af9194-8c9a-46f6-85eb-8f0e8dae26dd",
+        "gravatar": "https://fillmurray.com/92/81",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Else Mueller"
+      },
+      "createdOn": "1560048104179",
+      "updatedOn": "1545305552890",
+      "takenOn": "1560048104179",
+      "sk": "PHOTO",
+      "url": "https://placeimg.com/798/598/nature",
+      "base64": null,
+      "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+      "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+      "coords": [
+        -120.333379,
+        44.629701
+      ],
+      "rawData": {
+        "a": 1,
+        "b": 2
+      },
+      "note": "Non voluptas nostrum praesentium sit tempore officiis voluptatem alias dolore. Et ipsam natus aspernatur quo. Nisi nesciunt sed. Ab aliquam exercitationem quaerat et aut itaque aut. Magni et perspiciatis quisquam ut incidunt cum sit cupiditate atque.\n \rDolor labore facere. Libero porro similique qui quia accusamus. Ut ipsum esse repellendus.\n \rEst et ipsam et accusantium illum. Eos perspiciatis ipsam aut distinctio iste nostrum consequuntur tenetur quis. Consequuntur cum doloribus repudiandae vitae sed totam fuga omnis laborum. Optio libero reprehenderit est aliquid ut sed iure. Fugit minus vitae ut dolores voluptatem.",
+      "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
+      "tags": [
+        {
+          "label": "Structure-7",
+          "id": "55a937d2-ae2f-4052-8f43-87b299c57c31",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 727,
+            "y": 80
+          }
+        },
+        {
+          "label": "Structure-10",
+          "id": "b7ef909d-2947-43a5-8f49-1d79dde4db2d",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 431,
+            "y": 446
+          }
+        },
+        {
+          "label": "Structure-5",
+          "id": "26939008-dfa0-4ede-b455-e0f40503b174",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 433,
+            "y": 237
+          }
+        },
+        {
+          "label": "Structure-1",
+          "id": "e9840d2f-a43d-4a83-9bf4-e79e5bd93d68",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 353,
+            "y": 218
+          }
+        },
+        {
+          "label": "Structure-6",
+          "id": "6ec28cf6-137c-4383-b02a-7b07c75e25b8",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 269,
+            "y": 149
+          }
+        },
+        {
+          "label": "Structure-8",
+          "id": "19357bc3-85dc-4067-8261-3515f89b3321",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 628,
+            "y": 278
+          }
+        },
+        {
+          "label": "Elm",
+          "id": "e02c87ce-d804-4134-8bef-518728440667",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 475,
+            "y": 341
+          }
+        },
+        {
+          "label": "Cottonwood",
+          "id": "5faf04ba-6355-4c33-9353-7ec30f025da3",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 519,
+            "y": 302
+          }
+        },
+        {
+          "label": "Indignation",
+          "id": "8691da0b-8e56-4bb6-b6bc-b4d3b2be70e5",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 50,
+            "y": 178
+          }
+        },
+        {
+          "label": "Anger",
+          "id": "ee39eac5-0038-46b9-ae74-225849c87edd",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 115,
+            "y": 151
+          }
+        },
+        {
+          "label": "Confusion",
+          "id": "5e7250c7-da62-4068-93ae-9243fc50af3b",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 435,
+            "y": 380
+          }
+        },
+        {
+          "label": "Winter",
+          "id": "9c83367f-52ba-4676-87ad-6061bbcd6969",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 57,
+            "y": 533
+          }
+        }
+      ],
+      "paths": {
+        "base": "https://placeimg.com/801/597/",
+        "thumb": "nature",
+        "medium": "nature",
+        "large": "nature",
+        "orig": "nature"
+      }
+    },
+    {
+      "id": "eede7724-b399-4eb3-a2ae-807da1e80104",
+      "createdBy": "d8ceea0d-9a19-411c-8843-888edfa12db5",
+      "updatedBy": "8c23f769-fabd-4451-bbbd-3592d4762686",
+      "createdUser": {
+        "id": "d8ceea0d-9a19-411c-8843-888edfa12db5",
+        "gravatar": "https://fillmurray.com/85/86",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Samara Ruecker"
+      },
+      "updatedUser": {
+        "id": "8c23f769-fabd-4451-bbbd-3592d4762686",
+        "gravatar": "https://fillmurray.com/80/92",
+        "gravatarProfile": "https://s.gravatar.com/b65e93508e1b7eae0af790ec9c65093b.json",
+        "username": "Dejon Beier"
+      },
+      "createdOn": "1554559221141",
+      "updatedOn": "1530818882974",
+      "takenOn": "1554559221141",
+      "sk": "PHOTO",
+      "url": "https://placeimg.com/798/598/nature",
+      "base64": null,
+      "seriesId": "c115c76e-cae8-4556-aa0e-a126003d8122",
+      "seriesCreatedBy": "6f09e5c2-9520-47c6-918a-71643131a146",
+      "coords": [
+        -120.333379,
+        44.629701
+      ],
+      "rawData": {
+        "a": 1,
+        "b": 2
+      },
+      "note": "Quaerat occaecati aperiam quia ratione et. Odio rem sapiente qui minus aspernatur earum. Unde ut tempora fugit animi animi. Ipsa ex ut aut eveniet laboriosam iusto similique reprehenderit nostrum.\n \rNam enim nulla consequatur at velit modi. Vero eaque tempore. Recusandae a dolores quo aut repellendus explicabo ullam possimus officiis. Qui rerum non ratione dicta.\n \rSunt qui laborum nulla repudiandae sed sapiente quia eligendi. Minus corporis fugit autem tempore dolores explicabo omnis. Soluta aperiam quisquam quo voluptatem non alias sapiente nam. Commodi similique non facere consequatur. Incidunt aut alias laborum. Culpa est porro officiis nihil reiciendis et ratione.\n \rConsequatur deleniti nisi vero nisi id animi quia qui et. Delectus repellendus cum soluta. Hic praesentium nostrum corporis ad in veniam sit quia doloremque.",
+      "meta": "{\"user\":\"926ff265-e22b-400d-ae00-a817d69d5042\"}",
+      "tags": [
+        {
+          "label": "Structure-3",
+          "id": "1d4e49cb-8ac5-4de1-b9e3-3f6347632758",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 171,
+            "y": 422
+          }
+        },
+        {
+          "label": "Structure-10",
+          "id": "b7ef909d-2947-43a5-8f49-1d79dde4db2d",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 202,
+            "y": 454
+          }
+        },
+        {
+          "label": "Structure-2",
+          "id": "b02e4c65-e239-44a2-a610-9cd4db996f85",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 263,
+            "y": 103
+          }
+        },
+        {
+          "label": "Structure-0",
+          "id": "dd3d944f-743c-4995-99e2-c1db1445026c",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 398,
+            "y": 300
+          }
+        },
+        {
+          "label": "Structure-8",
+          "id": "19357bc3-85dc-4067-8261-3515f89b3321",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 291,
+            "y": 294
+          }
+        },
+        {
+          "label": "Structure-7",
+          "id": "55a937d2-ae2f-4052-8f43-87b299c57c31",
+          "typeId": "structures",
+          "xyCoords": {
+            "x": 707,
+            "y": 282
+          }
+        },
+        {
+          "label": "Palm",
+          "id": "d340bb1c-d608-4d48-8fed-f43a5e07d3de",
+          "typeId": "treetypes",
+          "xyCoords": {
+            "x": 390,
+            "y": 422
+          }
+        },
+        {
+          "label": "Ambivalence",
+          "id": "3ac64fb3-2916-4342-a9f0-c936d5278d28",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 434,
+            "y": 422
+          }
+        },
+        {
+          "label": "Indignation",
+          "id": "8691da0b-8e56-4bb6-b6bc-b4d3b2be70e5",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 420,
+            "y": 243
+          }
+        },
+        {
+          "label": "Anger",
+          "id": "ee39eac5-0038-46b9-ae74-225849c87edd",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 611,
+            "y": 71
+          }
+        },
+        {
+          "label": "Confusion",
+          "id": "5e7250c7-da62-4068-93ae-9243fc50af3b",
+          "typeId": "emotions",
+          "xyCoords": {
+            "x": 327,
+            "y": 548
+          }
+        },
+        {
+          "label": "Spring",
+          "id": "60cc5964-7a6b-4584-b0b1-a261f53a739c",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 210,
+            "y": 256
+          }
+        },
+        {
+          "label": "Fall",
+          "id": "0f859ba1-3965-4507-a077-ed73fe2d9272",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 335,
+            "y": 61
+          }
+        },
+        {
+          "label": "Winter",
+          "id": "9c83367f-52ba-4676-87ad-6061bbcd6969",
+          "typeId": "season",
+          "xyCoords": {
+            "x": 480,
+            "y": 147
+          }
+        }
+      ],
+      "paths": {
+        "base": "https://placeimg.com/798/595/",
+        "thumb": "nature",
+        "medium": "nature",
+        "large": "nature",
+        "orig": "nature"
+      }
     }
-  ]
+  ],
+  "photoCount": 9
 }
