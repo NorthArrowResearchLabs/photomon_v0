@@ -1,16 +1,16 @@
 {
   "main.css": "/photomon_v0/static/css/main.973f5dcd.chunk.css",
-  "main.js": "/photomon_v0/static/js/main.9edf2b0e.chunk.js",
-  "main.js.map": "/photomon_v0/static/js/main.9edf2b0e.chunk.js.map",
+  "main.js": "/photomon_v0/static/js/main.8ac20004.chunk.js",
+  "main.js.map": "/photomon_v0/static/js/main.8ac20004.chunk.js.map",
   "static/css/1.211258bd.chunk.css": "/photomon_v0/static/css/1.211258bd.chunk.css",
-  "static/js/1.2eb9e5d5.chunk.js": "/photomon_v0/static/js/1.2eb9e5d5.chunk.js",
-  "static/js/1.2eb9e5d5.chunk.js.map": "/photomon_v0/static/js/1.2eb9e5d5.chunk.js.map",
+  "static/js/1.9b79c113.chunk.js": "/photomon_v0/static/js/1.9b79c113.chunk.js",
+  "static/js/1.9b79c113.chunk.js.map": "/photomon_v0/static/js/1.9b79c113.chunk.js.map",
   "runtime~main.js": "/photomon_v0/static/js/runtime~main.d91fcb6e.js",
   "runtime~main.js.map": "/photomon_v0/static/js/runtime~main.d91fcb6e.js.map",
-  "static/media/index.css": "/photomon_v0/static/media/roboto-latin-900italic.7b770d6c.woff2",
-  "static/css/main.973f5dcd.chunk.css.map": "/photomon_v0/static/css/main.973f5dcd.chunk.css.map",
+  "static/media/index.css": "/photomon_v0/static/media/roboto-latin-500.28546717.woff2",
   "static/css/1.211258bd.chunk.css.map": "/photomon_v0/static/css/1.211258bd.chunk.css.map",
+  "static/css/main.973f5dcd.chunk.css.map": "/photomon_v0/static/css/main.973f5dcd.chunk.css.map",
   "index.html": "/photomon_v0/index.html",
-  "precache-manifest.f41c7d3a6e66174dcb89241172355d59.js": "/photomon_v0/precache-manifest.f41c7d3a6e66174dcb89241172355d59.js",
+  "precache-manifest.1e36b3411567db45d6e8d2f8e090b982.js": "/photomon_v0/precache-manifest.1e36b3411567db45d6e8d2f8e090b982.js",
   "service-worker.js": "/photomon_v0/service-worker.js"
 }
