@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/photomon_v0/precache-manifest.787ac6e0b5799d9f48e24e2d7717c47b.js"
+  "/photomon_v0/precache-manifest.c15b76bea8aff4961195c04df18f3681.js"
 );
 
 workbox.clientsClaim();
