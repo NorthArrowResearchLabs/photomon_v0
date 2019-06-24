@@ -1,6 +1,6 @@
 {
-  "short_name": "Photomon",
-  "name": "Photo Monitoring App",
+  "short_name": "MorPhoto",
+  "name": "MorPhoto",
   "icons": [
     {
       "src": "favicons/android-chrome-192x192.png",
@@ -15,7 +15,6 @@
    ],
   "start_url": ".",
   "display": "standalone",
-  "orientation": "portrait",  
   "theme_color": "#3a3335",
   "background_color": "#3a3335"
 }
